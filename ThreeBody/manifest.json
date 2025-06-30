@@ -1,0 +1,14 @@
+{
+  "uuid": "89b2219f-13d4-4bf2-b3ce-520023e191a7",
+  "plugin_name": "ThreeBody",
+  "plugin_author": "MRUIAW",
+  "plugin_description": "ThreeBody Simulator",
+  "plugin_version": "1.0.0",
+  "game_version": "1.21.82",
+  "supported_game_version_ranges": [
+    "0.0.0-9.99.9"
+  ],
+  "runtime_version": 2,
+  "target_assembly": "ThreeBody.dll",
+  "repository_url": "https://github.com/MRUIAW/ThreeBody"
+}
