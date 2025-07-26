@@ -10,7 +10,7 @@
   </PropertyGroup>
 
 	<PropertyGroup>
-		<OnixPluginUUID>89b2219f-13d4-4bf2-b3ce-520023e191a7</OnixPluginUUID>
+		<OnixPluginUUID>50a3c2a6-b8fa-438e-8008-1a599c5022e9</OnixPluginUUID>
 	</PropertyGroup> 
 
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">

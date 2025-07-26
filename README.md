@@ -1,5 +1,5 @@
 # ThreeBody
-ThreeBody Simulator
+ThreeBody Simulation
 
 - By **MRUIAW**
 

@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeBody", "ThreeBody/ThreeBody.csproj", "{42BD8F82-2014-4008-B521-000ECEC152F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeBody", "ThreeBody/ThreeBody.csproj", "{0C395F78-BE22-4271-8B98-79BEB9D71D76}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
         Release|x64 = Release|x64
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {42BD8F82-2014-4008-B521-000ECEC152F2}.Debug|x64.ActiveCfg = Debug|x64
-        {42BD8F82-2014-4008-B521-000ECEC152F2}.Debug|x64.Build.0 = Debug|x64
-        {42BD8F82-2014-4008-B521-000ECEC152F2}.Release|x64.ActiveCfg = Release|x64
-        {42BD8F82-2014-4008-B521-000ECEC152F2}.Release|x64.Build.0 = Release|x64
+        {0C395F78-BE22-4271-8B98-79BEB9D71D76}.Debug|x64.ActiveCfg = Debug|x64
+        {0C395F78-BE22-4271-8B98-79BEB9D71D76}.Debug|x64.Build.0 = Debug|x64
+        {0C395F78-BE22-4271-8B98-79BEB9D71D76}.Release|x64.ActiveCfg = Release|x64
+        {0C395F78-BE22-4271-8B98-79BEB9D71D76}.Release|x64.Build.0 = Release|x64
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
     EndGlobalSection
     GlobalSection(ExtensibilityGlobals) = postSolution
-        SolutionGuid = {4786DA51-63AD-49C1-BC9E-D28B569F09B5}
+        SolutionGuid = {32786CAB-3898-473D-AE83-C2D70CBF4A64}
     EndGlobalSection
 EndGlobal
